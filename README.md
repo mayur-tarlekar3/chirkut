@@ -1,13 +1,13 @@
 # chirkut
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Colorful Text Example</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <div class="colorful-text">I Love You</div>
-</body>
-</html>
+<br>
+<h1></h1>hey chirkut</h1>
+<br>
+<h1>shelii</h1>
+<br>
+<h1>mhashi</h1>
+<br>
+<h1>1.5 fut</h1>
+<br>
+<h1>chimkandi</h1>
+<br>
+<h1>thank you</h1>
