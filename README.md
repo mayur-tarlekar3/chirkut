@@ -1,6 +1,4 @@
-# chirkut
-<br>
-<h1></h1>hey chirkut</h1>
+# hey chirkut
 <br>
 <h1>shelii</h1>
 <br>
@@ -10,4 +8,4 @@
 <br>
 <h1>chimkandi</h1>
 <br>
-<h1>thank you</h1>
+<h1>kal aana</h1>
